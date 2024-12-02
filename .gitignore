@@ -1,5 +1,4 @@
 # custom for repo
-data/*
 *.log
 *.DS_Store
 
