@@ -1,3 +1,8 @@
+# custom for repo
+data/*
+*.log
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
